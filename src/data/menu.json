@@ -1,0 +1,317 @@
+[
+  {
+    "id": "bowl-veggie",
+    "name": "Veggie Noodle Bowl",
+    "description": "Broth: Coconut , Mushroom , Corn , Tomato. Ingredients: Veggie balls, Lotus root,Bamboo shoot,Bok-Choi,Bean sprouts.",
+    "price": "₹468",
+    "category": "Signature Bowls",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "bowl-vegan",
+    "name": "Vegan Noodle Bowl",
+    "description": "Broth: Coconut , Mushroom , Corn , Tomato. Ingredients: Plant Based meat ,Soya Manchurian balls, Bok-Choi,Beans sprouts, Baby corn.",
+    "price": "₹468",
+    "category": "Signature Bowls",
+    "dietary": "Vegan",
+    "image": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "bowl-chicken",
+    "name": "Chicken Noodle Bowl",
+    "description": "Broth: Prawns , Chicken , Coconut , Mushroom , Corn , Tomato. Ingredients: Chicken strips, Chicken meat balls,Fried chicken momos,small omlettes.",
+    "price": "₹585",
+    "category": "Signature Bowls",
+    "dietary": "Non-Veg",
+    "image": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "bowl-seafood",
+    "name": "Seafood Noodle Bowl",
+    "description": "Broth: Prawns , Chicken , Coconut , Mushroom , Corn , Tomato. Ingredients: Fish balls, Crab meat balls, Prawn sticks, Squid slices, Mussels.",
+    "price": "₹585",
+    "category": "Signature Bowls",
+    "dietary": "Non-Veg",
+    "image": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-62",
+    "name": "Whole lobster with Indie fries and salad",
+    "description": "Premium Asian specialty crafted with the finest seafood and authentic spices.",
+    "price": "₹1199",
+    "category": "Seafood Specialties",
+    "dietary": "Non-Veg",
+    "image": "https://images.unsplash.com/photo-1534604973900-c41ab4cdd90b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-63",
+    "name": "Diced fried octopus with quinoa salad",
+    "description": "Premium Asian specialty crafted with the finest seafood and authentic spices.",
+    "price": "₹699",
+    "category": "Seafood Specialties",
+    "dietary": "Non-Veg",
+    "image": "https://images.unsplash.com/photo-1534604973900-c41ab4cdd90b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-64",
+    "name": "Asian Pyaala cooked with sea food comes with spicy schezwan sauce",
+    "description": "Premium Asian specialty crafted with the finest seafood and authentic spices.",
+    "price": "₹499",
+    "category": "Seafood Specialties",
+    "dietary": "Non-Veg",
+    "image": "https://images.unsplash.com/photo-1534604973900-c41ab4cdd90b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-65",
+    "name": "Whole lobster  (add-on)",
+    "description": "Premium Asian specialty crafted with the finest seafood and authentic spices.",
+    "price": "₹900",
+    "category": "Seafood Specialties",
+    "dietary": "Non-Veg",
+    "image": "https://images.unsplash.com/photo-1534604973900-c41ab4cdd90b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-68",
+    "name": "Vegan tofu wraps",
+    "description": "Wrapped in Rice Paper, Tofu, Glass Noodles, Jullinied Carrots, Lettuce",
+    "price": "₹319",
+    "category": "Starters",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-69",
+    "name": "Spicy veggie sausage",
+    "description": "Veggie Sausages covered in Thai curry sauce with salad",
+    "price": "₹349",
+    "category": "Starters",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-70",
+    "name": "Korean chicken bites",
+    "description": "Crispy fried chicken tossed in honey sauce with salad",
+    "price": "₹429",
+    "category": "Starters",
+    "dietary": "Non-Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-71",
+    "name": "Tapokki Korean Rice Cake",
+    "description": "Korean rice cake topped with chilly sauce with spring onions and sesame",
+    "price": "₹349",
+    "category": "Starters",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-72",
+    "name": "Indie Fries",
+    "description": "Vegan protein fries with salad",
+    "price": "₹399",
+    "category": "Starters",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-73",
+    "name": "Kim-chi Mild",
+    "description": "Fermented Chinese cabbage with veggie momos",
+    "price": "₹269",
+    "category": "Starters",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-74",
+    "name": "Kim-chi Double Spice",
+    "description": "Fermented Chinese cabbage with veggie momos",
+    "price": "₹299",
+    "category": "Starters",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-75",
+    "name": "Crispy Honey Potato",
+    "description": "Fried Potato patty tossed in chilli honey sauce",
+    "price": "₹349",
+    "category": "Starters",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-76",
+    "name": "Tai-Pai Chicken",
+    "description": "Special spice coated fried chicken breast tossed in Tai-Pai sauce",
+    "price": "₹429",
+    "category": "Starters",
+    "dietary": "Non-Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-77",
+    "name": "Hong Kong Chilly Chicken",
+    "description": "Special spice coated fried chicken tossed in honey sauce",
+    "price": "₹429",
+    "category": "Starters",
+    "dietary": "Non-Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-78",
+    "name": "Dragon Chicken",
+    "description": "Shredded chicken breast fried and tossed in red hot chilly sauce",
+    "price": "₹429",
+    "category": "Starters",
+    "dietary": "Non-Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-79",
+    "name": "Crispy Prawn with Sweet Chilly Sauce",
+    "description": "crispy fried prawns accompanied with sweet chilly sauce",
+    "price": "₹699",
+    "category": "Starters",
+    "dietary": "Non-Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-80",
+    "name": "Crispy Fired Chicken with Honey Sauce",
+    "description": "crispy fried chicken accompanied with honey sauce",
+    "price": "₹399",
+    "category": "Starters",
+    "dietary": "Non-Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-81",
+    "name": "Crispy Chicken Momo",
+    "description": "Cornflakes dipped momos served with salad",
+    "price": "₹299",
+    "category": "Starters",
+    "dietary": "Non-Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-82",
+    "name": "Veg Manchuria",
+    "description": "Fine chopped fresh veggies garlic, ginger, soy and green chillies",
+    "price": "₹229",
+    "category": "Starters",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-83",
+    "name": "Veg Spring Roll",
+    "description": "Golden fried crispy rolls stuffed with shredded veggies",
+    "price": "₹319",
+    "category": "Starters",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-84",
+    "name": "Chicken Spring Roll",
+    "description": "Golden fried crispy rolls stuffed with shredded chicken",
+    "price": "₹299",
+    "category": "Starters",
+    "dietary": "Non-Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-85",
+    "name": "Won-Ton Chicken",
+    "description": "Minced chicken wrapped in Won-Ton wrap and fried till crispy",
+    "price": "₹329",
+    "category": "Starters",
+    "dietary": "Non-Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-86",
+    "name": "Won-Ton Veg",
+    "description": "Minced veggies wrapped in Won-Ton wrap and fried till crispy",
+    "price": "₹299",
+    "category": "Starters",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-87",
+    "name": "Vegan protein finger fries",
+    "description": "Crispy fried vegan meat coated with spices with salad",
+    "price": "₹299",
+    "category": "Starters",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-88",
+    "name": "Vegan shawarma",
+    "description": "Marinated vegan meat shawarma style cooked",
+    "price": "₹319",
+    "category": "Starters",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "drink-boba",
+    "name": "Boba (Various Flavors)",
+    "description": "Choice of Mango, Kiwi, Watermelon, Green Apple, Litchi, Passion Fruit, Coffee, Chocolate.",
+    "price": "₹350",
+    "category": "Beverages",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1596067337341-3657788c0a87?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "drink-spitz",
+    "name": "Spitz Mocktail",
+    "description": "Premium sparkling beverage with a refreshing citrus twist.",
+    "price": "₹89",
+    "category": "Mocktails",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1513558191213-e07a92169765?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "drink-coconut",
+    "name": "Coconut Water (330ml)",
+    "description": "100% natural and refreshing coconut water to accompany your meal.",
+    "price": "₹160",
+    "category": "Beverages",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1526318896980-cf78c088247c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "steamboat-generic",
+    "name": "Asian Steam Boat (Hot Pot)",
+    "description": "Authentic interactive hot pot. Min 800gms for 2. Includes curated broth and your choice of fresh artisanal noodles.",
+    "price": "₹1.80/gm",
+    "category": "Steam Boat",
+    "dietary": "Non-Veg",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-soju",
+    "name": "Soju",
+    "description": "Authentic Korean alcoholic beverage.",
+    "price": "₹850",
+    "category": "Beverages",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1596067337341-3657788c0a87?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "item-tapioca",
+    "name": "Tapioca Pearls Add-on",
+    "description": "Extra boba pearls for your drink.",
+    "price": "₹120",
+    "category": "Beverages",
+    "dietary": "Veg",
+    "image": "https://images.unsplash.com/photo-1596067337341-3657788c0a87?auto=format&fit=crop&q=80&w=800"
+  }
+]
