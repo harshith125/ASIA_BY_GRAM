@@ -1,11 +1,14 @@
 import { motion, useScroll, useTransform } from 'framer-motion';
 import { ArrowRight, ChevronDown } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
+import { useModal } from '../../context/ModalContext';
 
 import QuatrefoilBackground from '../ui/QuatrefoilBackground';
+import SparticlesEffect from '../ui/SparticlesEffect';
 
 const Hero = () => {
     const navigate = useNavigate();
+    const { openReservation } = useModal();
     const { scrollY } = useScroll();
     const y1 = useTransform(scrollY, [0, 500], [0, 200]);
     const y2 = useTransform(scrollY, [0, 500], [0, -150]);
@@ -29,6 +32,7 @@ const Hero = () => {
     return (
         <section id="home" className="relative w-full h-screen overflow-hidden flex flex-col items-center justify-center bg-transparent perspective-1000">
             <QuatrefoilBackground />
+            <SparticlesEffect className="absolute inset-0 pointer-events-none z-40" />
 
             {/* Content Overlay - Centered and elegant */}
             <motion.div
@@ -75,7 +79,7 @@ const Hero = () => {
                     {/* Subheading / Description */}
                     <motion.p
                         variants={{ hidden: { opacity: 0, y: 30, filter: "blur(10px)" }, visible: { opacity: 1, y: 0, filter: "blur(0)" } }}
-                        className="text-zinc-600 text-sm md:text-lg font-serif italic max-w-2xl mx-auto leading-relaxed pt-2 pb-8"
+                        className="text-black font-bold text-sm md:text-lg font-serif italic max-w-2xl mx-auto leading-relaxed pt-2 pb-8"
                     >
                         "A culinary journey through the soul of Asia, crafted with passion and served with elegance in the heart of Hyderabad."
                     </motion.p>
@@ -93,7 +97,7 @@ const Hero = () => {
                             <ArrowRight className="group-hover:translate-x-2 transition-transform" size={14} />
                         </div>
                         <div
-                            onClick={() => document.getElementById('visit')?.scrollIntoView({ behavior: 'smooth' })}
+                            onClick={openReservation}
                             className="flex-1 bg-white/10 backdrop-blur-md border border-white/20 text-black hover:bg-white/20 transition-colors flex items-center justify-center cursor-pointer"
                         >
                             <span className="font-asian font-bold uppercase tracking-[0.2em] text-xs">Book a Table</span>

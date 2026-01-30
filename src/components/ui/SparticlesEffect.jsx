@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 
-const SparticlesEffect = () => {
+const SparticlesEffect = ({ className = "fixed inset-0 pointer-events-none z-0" }) => {
     const canvasRef = useRef(null);
 
     useEffect(() => {
@@ -179,7 +179,7 @@ const SparticlesEffect = () => {
     return (
         <canvas
             ref={canvasRef}
-            className="fixed inset-0 pointer-events-none z-40 bg-transparent"
+            className={`bg-transparent ${className}`}
         />
     );
 };

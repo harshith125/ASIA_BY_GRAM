@@ -12,7 +12,7 @@ const MenuSection = () => {
     const dishes = menuData.slice(0, 6);
 
     return (
-        <section id="menu" className="py-24 bg-surface relative">
+        <section id="menu" className="py-24 bg-transparent relative">
             <div className="container mx-auto px-6 md:px-12">
                 <div className="text-center mb-16 space-y-4">
                     <h2 className="text-primary font-bold tracking-widest uppercase text-3xl md:text-4xl">Signature Dishes</h2>

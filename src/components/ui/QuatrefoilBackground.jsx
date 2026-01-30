@@ -3,16 +3,16 @@ import { motion } from 'framer-motion';
 
 const QuatrefoilBackground = () => {
     return (
-        <div className="absolute inset-0 z-0 overflow-hidden bg-zinc-100">
-            {/* Metallic Base Gradient */}
-            <div className="absolute inset-0 bg-gradient-to-br from-[#E0E0E0] via-[#C0C0C0] to-[#E0E0E0]" />
+        <div className="absolute inset-0 z-0 overflow-hidden bg-white">
+            {/* Milk White Base Gradient */}
+            <div className="absolute inset-0 bg-gradient-to-br from-[#FAFAFA] via-[#E8E8E8] to-[#FAFAFA]" />
 
-            {/* Quatrefoil Pattern Layer */}
+            {/* Quatrefoil Pattern Layer - Asanoha (Silver) */}
             <div
-                className="absolute inset-0 opacity-40 mix-blend-overlay"
+                className="absolute inset-0 opacity-30"
                 style={{
-                    backgroundImage: `url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox='0 0 80 80' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M20 20 Q 30 10 40 20 Q 50 10 60 20 Q 70 30 60 40 Q 70 50 60 60 Q 50 70 40 60 Q 30 70 20 60 Q 10 50 20 40 Q 10 30 20 20 Z' fill='none' stroke='%23505050' stroke-width='1.5'/%3E%3Cpath d='M40 20 A 10 10 0 0 0 20 20 A 10 10 0 0 0 20 40 A 10 10 0 0 0 40 40 Z M40 20 A 10 10 0 0 1 60 20 A 10 10 0 0 1 60 40 A 10 10 0 0 1 40 40 Z M40 60 A 10 10 0 0 1 20 60 A 10 10 0 0 1 20 40 A 10 10 0 0 1 40 40 Z M40 60 A 10 10 0 0 0 60 60 A 10 10 0 0 0 60 40 A 10 10 0 0 0 40 40 Z' fill='none' stroke='%23505050' stroke-width='1.5'/%3E%3C/svg%3E")`,
-                    backgroundSize: '80px 80px'
+                    backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='104' viewBox='0 0 60 104' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M30 0 L60 52 L30 104 L0 52 Z M30 0 L30 104 M0 52 L60 52 M0 52 L30 0 M60 52 L30 0 M60 52 L30 104 M0 52 L30 104' fill='none' stroke='%23A0A0A0' stroke-width='0.5'/%3E%3C/svg%3E")`,
+                    backgroundSize: '60px 104px'
                 }}
             />
 
